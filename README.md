@@ -1,16 +1,9 @@
 # qrcodegeneratore
 
-A new Flutter project.
+![QRSample](https://github.com/farrucoder/QR-CodeGeneratore/assets/114243390/a1877762-d671-4874-8e42-9ac131bab964)
 
-## Getting Started
+# Result
 
-This project is a starting point for a Flutter application.
+![OutPut](https://github.com/farrucoder/QR-CodeGeneratore/assets/114243390/3d384471-27c3-404d-9457-198ff233025d)
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
