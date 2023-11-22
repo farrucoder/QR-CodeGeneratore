@@ -6,4 +6,4 @@
 
 ![OutPut](https://github.com/farrucoder/QR-CodeGeneratore/assets/114243390/3d384471-27c3-404d-9457-198ff233025d)
 
-
+👉Let's jump to the project => staywithfarru.web.app
